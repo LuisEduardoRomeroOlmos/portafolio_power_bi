@@ -29,6 +29,6 @@
 
 ![alt text](9p4.png)
 <p dir="auto">&nbsp;</p>
-<p><sub><em>El archivo en Power Bi se encuentra en la carpeta Indicadores Mundiales&nbsp; y la base de datos como las&nbsp; im&aacute;genes en la carpeta Data</em></sub></p>
+<p><sub><em>El archivo en Power Bi se encuentra en la carpeta Finanzas Personales&nbsp; y la base de datos como las&nbsp; im&aacute;genes en la carpeta Data</em></sub></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p
