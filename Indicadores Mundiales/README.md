@@ -5,7 +5,7 @@
 
 ![alt text](Capturas/ap2.png)
 
-![alt text](bp2.png)
+![alt text](Capturas/bp2.png)
 
 <p><sub><em>El archivo en Power Bi se encuentra en la carpeta Indicadores Mundiales&nbsp; y la base de datos como las&nbsp; im&aacute;genes en la carpeta Data</em></sub></p>
 <p>&nbsp;</p>
