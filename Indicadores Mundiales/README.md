@@ -3,7 +3,7 @@
 </div>
 <p dir="auto">Dashboard de Indicadores mundiales que&nbsp; contiene las siguientes p&aacute;ginas:<br /><br /><strong>-Poblaci&oacute;n por &aacute;rea:</strong> Puedes elegir entre&nbsp; pa&iacute;ses o rango de cantidad de poblaci&oacute;n y verlo representado en el reporte.<br /><strong>-Indicadores Mundiales:</strong> An&aacute;lisis de Mortalidad Infantil y esperanza de vida por regiones.</p>
 
-![alt text](ap2.png)
+![alt text](Capturas/ap2.png)
 
 ![alt text](bp2.png)
 
